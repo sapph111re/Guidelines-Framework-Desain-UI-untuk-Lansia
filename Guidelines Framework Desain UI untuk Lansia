@@ -1,0 +1,29 @@
+No.	Guideline
+1	Pertimbangkan definisi dari bagian A, B, dan C. Untuk setiap bagian, hindari informasi yang melanggar definisi bagian tersebut
+2	Letakkan informasi yang paling penting di depan, yaitu di layar utama aplikasi
+3	Kelompokkan informasi yang terkait atau kurang penting dalam satu widget yang seragam
+4	Hindari (atau minimalisir) informasi yang tidak diinginkan di layar; setiap layar harus berisi informasi yang relevan dengan fungsi yang disediakan oleh antarmuka pengguna (UI)
+5	Sediakan widget kontrol (di layar utama) yang mengumpulkan dan mengatur pemberitahuan yang diterima serta membantu pengguna lanjut usia untuk mengelolanya
+6	Berikan petunjuk visual yang mencolok dan permanen serta instruksi yang difokuskan pada tugas pengguna saat ini dan tunjukkan langkah-langkah yang perlu diikuti
+7	Tambahkan petunjuk visual pada antarmuka pengguna untuk membantu pengguna lanjut usia menyadari konten yang tersembunyi
+8	Tambahkan tooltip pada antarmuka pengguna, misalnya saat diperlukan gerakan khusus untuk melakukan tugas tertentu.
+9	Tampilkan elemen antarmuka pengguna dengan warna yang lebih terlihat dan ukuran yang mencolok
+10	Tempatkan elemen antarmuka pengguna (UI), terutama elemen yang sensitif, di area yang terlihat dan lebih baik lagi di lokasi yang dapat dijangkau oleh ibu jari pengguna
+11	Buat elemen yang dapat ditekan (tappable) mudah dikenali dari elemen yang tidak dapat ditekan (untappable) dan tambahkan label teks pada mereka.
+12	Berikan kontras yang memadai antara elemen antarmuka pengguna (UI) dan latar belakangnya
+13	Pastikan ikon (dan elemen antarmuka pengguna secara keseluruhan) konsisten di seluruh layar antarmuka pengguna smartphone
+14	Terapkan desain yang akrab dan memanfaatkan pengalaman sebelumnya para lansia, terutama dalam menggunakan komputer dan ponsel fitur
+15	Hindari menggunakan desain yang tidak umum dan sangat baru secara drastis
+16	Hindari menggunakan istilah ambigu. Gunakan kosakata yang akrab bagi lansia untuk memahami fungsi elemen antarmuka pengguna (UI)
+17	Tambahkan ikon pada teks, jika memungkinkan
+18	Hindari menggunakan konsep yang berorientasi pada sistem kecuali jika mutlak diperlukan. Dalam hal tersebut, dukung antarmuka pengguna dengan instruksi untuk membantu pengguna lanjut usia memahami konsep berorientasi sistem dan meresponsnya dengan tepat
+19	Gunakan istilah yang unik untuk memberi label pada elemen antarmuka pengguna (UI)
+20	Gunakan istilah secara konsisten di seluruh layar antarmuka pengguna (UI) smartphone.
+21	Terapkan 'tap' dan 'swipe' sebagai gestur utama untuk berinteraksi dengan antarmuka pengguna (UI)
+22	Hindari atau minimalisir penggunaan gestur yang rumit seperti 'drag and drop' dan 'tap and hold'
+23	Sediakan pesan konfirmasi deskriptif untuk setiap tindakan yang bersifat merusak yang menunjukkan konsekuensi dari tindakan tersebut
+24	Sediakan konfirmasi untuk setiap tindakan yang telah selesai.
+25	Sediakan umpan balik langsung ketika pengguna melakukan tindakan
+26	Sediakan mode umpan balik campuran: umpan balik visual (wajib) yang disertai dengan getaran dan/atau umpan balik audio
+27	Izinkan pengguna lanjut usia untuk mengelola sumber daya yang digunakan dan menjalankan aplikasi melalui langkah-langkah yang singkat dan sederhana
+28	Berikan respons sistem yang konsisten untuk tindakan pengguna yang sama.
